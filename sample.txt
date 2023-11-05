@@ -2,3 +2,7 @@ Marc - Sample text
 
 Name: John Marc
 Age: 21
+
+I am appending to this file - Jappy
+Name: Jappy
+Age: 21
