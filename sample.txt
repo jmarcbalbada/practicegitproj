@@ -3,6 +3,8 @@ Marc - Sample text
 Name: John Marc
 Age: 21
 
+Some lines
+
 I am appending to this file - Jappy
 Name: Jappy
 Age: 21
